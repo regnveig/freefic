@@ -1,0 +1,30 @@
+{
+    "gen": {
+        "fb_genreid": "gen",
+        "name": "Джен"
+    },
+    "het": {
+        "fb_genreid": "het",
+        "name": "Гет"
+    },
+    "slash-fanfics": {
+        "fb_genreid": "slash-fanfics",
+        "name": "Слэш"
+    },
+    "femslash-fanfics": {
+        "fb_genreid": "femslash-fanfics",
+        "name": "Фемслэш"
+    },
+    "other": {
+        "fb_genreid": "other",
+        "name": "Другие виды отношений"
+    },
+    "mixed": {
+        "fb_genreid": "mixed",
+        "name": "Смешанная"
+    },
+    "article": {
+        "fb_genreid": "article",
+        "name": "Статья"
+    }
+}

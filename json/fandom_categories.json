@@ -1,0 +1,42 @@
+{
+    "anime_and_manga": {
+        "fb_catid": "anime_and_manga",
+        "name": "Аниме и манга"
+    },
+    "books": {
+        "fb_catid": "books",
+        "name": "Книги"
+    },
+    "cartoons": {
+        "fb_catid": "cartoons",
+        "name": "Мультфильмы"
+    },
+    "games": {
+        "fb_catid": "games",
+        "name": "Игры"
+    },
+    "movies_and_tv_series": {
+        "fb_catid": "movies_and_tv_series",
+        "name": "Фильмы и сериалы"
+    },
+    "other": {
+        "fb_catid": "other",
+        "name": "Другое"
+    },
+    "rpf": {
+        "fb_catid": "rpf",
+        "name": "Известные люди (RPF)"
+    },
+    "no_fandom": {
+        "fb_catid": "no_fandom",
+        "name": "Ориджиналы"
+    },
+    "comics": {
+        "fb_catid": "comics",
+        "name": "Комиксы"
+    },
+    "musicals": {
+        "fb_catid": "musicals",
+        "name": "Мюзиклы"
+    }
+}
